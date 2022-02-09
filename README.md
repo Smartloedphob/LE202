@@ -5,7 +5,9 @@ Markdown เป็น Lightweight Markup Language ที่ใช้สำหร
 ## Headings
 เราจะใช้ # สำหรับทำHeadingsทั้ง6แบบ โดยเพิ่มจำนวน # ตามเลเวล Heading ที่เราต้องการได้เลย
 ตัวอย่าง1.1 #Sm
+
           เนื้อหา
+          
           ##Sm1
           เนื้อหา
           เนื้อหา
