@@ -1,4 +1,4 @@
-##ติดตั้งซอฟต์แวร์ platformio
+## ติดตั้งซอฟต์แวร์ platformio
 
 1. ไปที่เว็ป https://code.visualstudio.com/ กดdownlode ติดตั้ง macOs
 2. กดติดตั้ง
