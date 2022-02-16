@@ -57,7 +57,7 @@ Module 1000M Replace Bluetooth HC12 Supply voltage 3.2V - 5.5V.  Default communi
 The module supports software upgrades. The default factory settings: operating mode FU3, baud rate 9600bps, communication channel CH001 (433M).
 
 
-linkl : https://www.lazada.co.th/products/433mhz-hc-12-si44631000-i3048849388-s11167802276.html
+link : https://www.lazada.co.th/products/433mhz-hc-12-si44631000-i3048849388-s11167802276.html
 
 ## MT-MCS51
 
@@ -81,6 +81,7 @@ LPT-Multi Loader : โปรแกรมผ่านพอร์ตขนาน 
 พอร์ตสื่อสารข้อมูลอนุกรม UART ด้วยระดับสัญญาณ TTL
 กรณีใช้ชิพ P89V51RD2 สามารถดาวโหลดโปรแกรมผ่านพอร์ตอนุกรมได้ทันทีเมื่อใช้ร่วมกับจากบอร์ด MRT-BASE1 และ MRT-BASE2A
 มี LED แสดงสถานะ Power
+
 link : https://micro-research.co.th/mt-mcs51.html
 
 
@@ -105,4 +106,5 @@ headers with 12x GPIO,
 GND4-pin 2.0mm I2C Grove connectorPower and charging LEDsReset buttonPower switchPower 
 Supply5V power supply via USB Type-C portBattery 
 holder for 3.7V 16340 LiPo battery plus charging circuit
+
 linkl :https://www.lazada.co.th/products/t-oi-plus-risc-v-esp32-c3-mcu-i2937011391-s10769775431.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:12654756915!117524295342!!!pla-294682000766!c!294682000766!10769775431!146310590&gclid=Cj0KCQiA3rKQBhCNARIsACUEW_aKZdxCFjvJ_9dWl_5coS7C33T0vZvF2GmF1hwUyvwyxKj893TLq9caAoNDEALw_wcB
